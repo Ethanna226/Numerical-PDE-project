@@ -12,6 +12,6 @@ Symmetric Gauss-Seidel (SGS) Method with Newton Iteration: This method provides 
 **Results**
 
 The numerical results are presented for different values of σ:
-*Figures: The report includes figures showing the distribution of field values for each value of σ. As σ increases, it becomes harder for the non-zero values to spread across the domain.
-*Convergence Analysis: A summary table and plots showing the number of iterations needed for convergence for each value of σ. The method converges faster for smaller values of σ, while larger values require more iterations.
+-Figures: The report includes figures showing the distribution of field values for each value of σ. As σ increases, it becomes harder for the non-zero values to spread across the domain.
+-Convergence Analysis: A summary table and plots showing the number of iterations needed for convergence for each value of σ. The method converges faster for smaller values of σ, while larger values require more iterations.
 
